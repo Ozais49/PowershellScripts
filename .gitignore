@@ -1,6 +1,6 @@
 
-# Created by https://www.gitignore.io/api/Powershell,visualstudiocode
-# Edit at https://www.gitignore.io/?templates=Powershell,visualstudiocode
+# Created by https://www.gitignore.io/api/visualstudiocode,powershell
+# Edit at https://www.gitignore.io/?templates=visualstudiocode,powershell
 
 ### PowerShell ###
 # Exclude packaged modules
@@ -20,5 +20,5 @@
 # Ignore all local history of files
 .history
 
-# End of https://www.gitignore.io/api/Powershell,visualstudiocode
+# End of https://www.gitignore.io/api/visualstudiocode,powershell
 
