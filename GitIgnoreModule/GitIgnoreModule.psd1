@@ -8,7 +8,7 @@
 @{
 
 # Script module or binary module file associated with this manifest.
-RootModule = 'Get-Gitignore.psm1'
+RootModule = 'GitIgnoreModule.psm1'
 
 # Version number of this module.
 ModuleVersion = '1.0.0'
@@ -23,16 +23,16 @@ GUID = 'b453fc6b-a857-4be1-bfda-548bbc14a9e4'
 Author = 'Yugesh'
 
 # Company or vendor of this module
-CompanyName = 'Unknown'
+CompanyName = 'Private'
 
 # Copyright statement for this module
 Copyright = '(c) Yugesh. All rights reserved.'
 
 # Description of the functionality provided by this module
-# Description = ''
+Description = 'Module to help get gitignore file for passed inputs'
 
 # Minimum version of the PowerShell engine required by this module
-# PowerShellVersion = ''
+PowerShellVersion = '5.0'
 
 # Name of the PowerShell host required by this module
 # PowerShellHostName = ''
